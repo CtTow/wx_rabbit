@@ -1,0 +1,1 @@
+<view wx:for="{{a}}" wx:for-item="item" wx:key="d" class="data-v-104357ab" calss="homelist" bindtap="{{item.e}}"><view class="title data-v-104357ab" style="margin:10rpx 20rpx;font-size:30rpx;padding:20rpx">{{item.a}}</view><home-list wx:if="{{item.c}}" class="data-v-104357ab" u-i="{{item.b}}" bind:__l="__l" u-p="{{item.c}}"></home-list></view>

@@ -1,0 +1,25 @@
+{
+  "hash": "7921f793",
+  "configHash": "8b8316a2",
+  "lockfileHash": "2a7274cc",
+  "browserHash": "f5a4d230",
+  "optimized": {
+    "element-plus": {
+      "src": "../../../../../node_modules/element-plus/es/index.mjs",
+      "file": "element-plus.js",
+      "fileHash": "003ff908",
+      "needsInterop": false
+    },
+    "@element-plus/icons-vue": {
+      "src": "../../../../../node_modules/@element-plus/icons-vue/dist/index.js",
+      "file": "@element-plus_icons-vue.js",
+      "fileHash": "27a73ca9",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-UUBAXRIL": {
+      "file": "chunk-UUBAXRIL.js"
+    }
+  }
+}

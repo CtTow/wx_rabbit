@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/classList/classList",
+    "pages/cart/cart",
+    "pages/user/user",
+    "pages/classlify/classlify",
+    "pages/Product-details/Product-details"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#27bb9a",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "./static/index.png",
+        "selectedIconPath": "./static/index-active.png"
+      },
+      {
+        "text": "分类页",
+        "pagePath": "pages/classList/classList",
+        "iconPath": "./static/cate.png",
+        "selectedIconPath": "./static/cate-active.png"
+      },
+      {
+        "text": "购物车",
+        "pagePath": "pages/cart/cart",
+        "iconPath": "./static/cart.png",
+        "selectedIconPath": "./static/cart-active.png"
+      },
+      {
+        "text": "个人中心",
+        "pagePath": "pages/user/user",
+        "iconPath": "./static/profile.png",
+        "selectedIconPath": "./static/profile-active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
